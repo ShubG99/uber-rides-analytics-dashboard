@@ -17,12 +17,12 @@ The report is organized into 6 pages:
 
 ## 🖼️ Screenshots
 
-![Home](screenshots/01-home.png)
-![Overview](screenshots/02-overview.png)
-![Vehicle](screenshots/03-vehicle.png)
-![Revenue](screenshots/04-revenue.png)
-![Customer](screenshots/05-customer.png)
-![Location](screenshots/06-location.png)
+![Home](screenshots/01-home)
+![Overview](screenshots/02-overview)
+![Vehicle](screenshots/03-vehicle)
+![Revenue](screenshots/04-revenue)
+![Customer](screenshots/05-customer)
+![Location](screenshots/06-location)
 
 ## 🛠️ Tools Used
 
